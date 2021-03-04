@@ -1,0 +1,41 @@
+const heartSVG = [
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f493.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f495.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f496.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f497.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f498.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f499.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49a.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49b.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49c.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49d.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49e.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49f.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5a4.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f90d.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/1f90e.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/2764.svg",
+  "https://twemoji.maxcdn.com/v/13.0.1/svg/2763.svg",
+];
+
+const heartPNG = [
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f493.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f495.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f496.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f497.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f498.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f499.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49a.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49b.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49c.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49d.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49f.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5a4.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f90d.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f90e.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/2764.png",
+  "https://twemoji.maxcdn.com/v/13.0.1/72x72/2763.png",
+];
+
+export default { heartSVG, heartPNG };
