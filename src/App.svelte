@@ -45,6 +45,9 @@
 </main>
 
 <svelte:window on:keydown={checkKey} />
+<svelte:head>
+  <title>wuvvv</title>
+</svelte:head>
 
 <style>
   main {
